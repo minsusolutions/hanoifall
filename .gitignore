@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+HanoiFall/Library
+HanoiFall/Logs
+HanoiFall/UserSettings
+HanoiFall/ProjectSettings
+HanoiFall/obj
